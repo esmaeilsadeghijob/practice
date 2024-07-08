@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: practice
+server:
+  port: 6060
